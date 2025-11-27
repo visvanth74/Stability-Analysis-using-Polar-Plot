@@ -39,6 +39,8 @@ elseif (Wpc == Wgc)<br>
 else<br>
     disp('unstable')<br>
 end<br>
+## Output:
+<img width="713" height="640" alt="image" src="https://github.com/user-attachments/assets/e41e6aaa-dbe8-4a05-934b-e1ad1e6f7d90" />
 
 
 ## Result:
